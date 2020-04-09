@@ -14,6 +14,8 @@ const useStateExample = () => {
     </>
     )
 }
+
+export default useStateExample
 //Functional Components End
 
 //Class Components Begin
